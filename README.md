@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fogger1138
-- 👀 I’m interested in learning about GitHub.
+- 👀 I’m interested in learning about GitHub, coding, languages, etc.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me : fogger1138@gmail.com
 
